@@ -7,7 +7,7 @@ face-recognition-models==0.3.0
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.18.1
+numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
 Pillow==7.0.0
